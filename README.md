@@ -1,2 +1,10 @@
-# android_device_samsung_j2corelte
-Galaxy J2 Core | Initial
+# Android device tree for samsung SM-J260G (j2corelte)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```

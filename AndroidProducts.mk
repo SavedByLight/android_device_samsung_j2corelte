@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_j2corelte.mk
+    $(LOCAL_DIR)/twrp_j2corelte.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_j2corelte-user \
-    omni_j2corelte-userdebug \
-    omni_j2corelte-eng
+    twrp_j2corelte-eng
